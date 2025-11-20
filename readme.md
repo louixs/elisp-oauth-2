@@ -1,5 +1,9 @@
 # Elisp OAuth 2
 
+IMPORTANT:
+Please note that this package is massively out of date.
+Use it at your own risk!
+
 - This package aims to make oauth2 simpler for elisp
 - Many of the Emacs packages tend to have their own oauth2 implementations and
 each one of them. Although each implement tations are slightly different
@@ -38,5 +42,3 @@ go through the authorization process next time you relaunch emacs.
 
 You can get the value of the refresho token by for example running ```C-h v```
 and look for ```elisp-oauth-2-oauth-refresh-token```.
-
-
